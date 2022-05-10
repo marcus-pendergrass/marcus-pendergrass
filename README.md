@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcus-pendergrass
+- 👋 Hi, I’m Marcus Pendergrass.
 - 👀 I’m interested in mathematics and music and the relationships between the two.
 - 🌱 I’m currently learning Java and Python. I use Java for scientific programming, and am hoping to use Python as a replacement for MATLAB in my rapid application developement projects.
 - 💞️ If you are working on mathematics and music, I'd love to see what you're doing!
